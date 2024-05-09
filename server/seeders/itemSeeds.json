@@ -1,0 +1,16 @@
+[
+    {
+        "itemName": "Sunflowers",
+        "itemDescription": "A bouquet of sunflowers in a vase and ribbon.",
+        "variety": ["Birthday", "Gift"],
+        "price": 12.99,
+        "image": "https://images.unsplash.com/photo-1601884928885-92a922f7962f?q=80&w=1926&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+        "itemName": "Wildflower Assortment",
+        "itemDescription": "A bouquet of wildflowers tied together with a white ribbon.",
+        "variety": ["Birthday"],
+        "price": 8.99,
+        "image": "https://images.unsplash.com/photo-1613400812825-0ae4853c305a?q=80&w=1964&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    }
+]

@@ -1,0 +1,31 @@
+footer {
+    background-color: var(--RoseGold);
+    color: white;
+    padding: 1rem 0.5rem;
+    display: flex;
+    gap: 1.5rem;
+    justify-content: space-between;
+    margin-top: 4rem;
+}
+
+footer img {
+    height: 50px;
+    width: auto;
+}
+
+footer p {
+    color: white;
+    font-size: 0.75rem;
+}
+
+/* computer screens */
+
+@media (min-width: 1200px) {
+    footer {
+        justify-content: space-evenly;
+    }
+
+    footer p {
+        font-size: 1rem;
+    }
+}

@@ -1,0 +1,30 @@
+.item-card {
+    height: 290px;
+    width: 200px;
+    border: 2px dashed var(--RoseGold);
+    color: var(--RoseGold);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.item-card img {
+    object-fit: cover;
+    object-position: center;
+    height: 200px;
+    width: 200px;
+}
+
+.item-card h3 {
+    font-size: 1.25rem;
+    text-align: center;
+}
+
+.item-card h4 {
+    font-size: 1.25rem;
+    color: var(--LiteRose);
+}
+
+@media (min-width: 1200px) {
+}

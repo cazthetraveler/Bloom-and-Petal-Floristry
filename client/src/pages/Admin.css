@@ -1,0 +1,51 @@
+.admin-page {
+    padding: 1rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 2rem;
+}
+
+.admin-page h2 {
+    text-align: center;
+    font-size: 2rem;
+}
+
+.admin-page form {
+    background-color: var(--RoseGold);
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    padding: 1rem;
+    color: white;
+    border-radius: 10px;
+    width: 90%;
+}
+
+.admin-page form h3 {
+    text-align: center;
+}
+
+.admin-page form label {
+    font-weight: 500;
+}
+
+.admin-page form input, .admin-page form textarea {
+    padding: 0.5rem;
+}
+
+.admin-page form button {
+    border: none;
+    background-color: white;
+    color: var(--RoseGold);
+    font-weight: 500;
+    padding: 0.5rem 1rem;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.admin-page form button:hover {
+    background-color: var(--LiteRose);
+    color: white;
+    transition: 0.3s;
+}

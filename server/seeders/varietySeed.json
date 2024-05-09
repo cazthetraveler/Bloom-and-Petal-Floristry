@@ -1,0 +1,26 @@
+[
+    {
+        "varietyName": "Birthday",
+        "varietyDescription": "These flowers are the best for birthdays!"
+    },
+    {
+        "varietyName": "Holiday",
+        "varietyDescription": "These flowers are the best for holidays!"
+    },
+    {
+        "varietyName": "Gift",
+        "varietyDescription": "These flowers are the best for giving as gifts for any occasion!"
+    },
+    {
+        "varietyName": "Anniversary",
+        "varietyDescription": "These flowers are the best for anniversaries of any kind!"
+    },
+    {
+        "varietyName": "Funeral",
+        "varietyDescription": "These flowers are best arranged for funerals!"
+    },
+    {
+        "varietyName": "Wedding",
+        "varietyDescription": "These flowers are best arranged for weddings!"
+    }
+]
