@@ -8,6 +8,8 @@ This is a UI Design project to showcase my skills as a graphic designer and web 
 
 Bloom & Petal Floristry is a flower-based business, getting all sorts of flowers and plants to you for whatever event you can think of!
 
+** Since this is deployed on Render, loading the site will take a while.
+
 ## Usage
 
 A user can create an account using a unique email address and be able to log on to their account. Once logged on, a user can then be able to access their shopping cart and add items to it. Items can also be removed from user's cart.
