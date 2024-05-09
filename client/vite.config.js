@@ -8,7 +8,7 @@ export default defineConfig({
     open: true,
     proxy: {
       "/graphql": {
-        target: "https://bloom-and-petal.netlify.app",
+        target: "http://localhost:3001",
         changeOrigin: true,
         rewrite: (path) => path.replace(/^\/graphql/, ""),
       },
