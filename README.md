@@ -1,4 +1,5 @@
 # Bloom & Petal Floristry
+
 ## UI Design and MERN Stack Project
 
 ## Description
@@ -13,7 +14,7 @@ A user can create an account using a unique email address and be able to log on 
 
 ![home page - mobile](./client/public/images/screenshots/screenshot1.png)
 
-An admin user has special actions, like the ability to add, edit and delete categories and items from an admin page.
+An admin user has special actions, like the ability to add, edit and delete categories and items from the admin page.
 
 ![admin page - mobile](./client/public/images/screenshots/screenshot2.png)
 
