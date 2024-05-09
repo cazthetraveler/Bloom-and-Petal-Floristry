@@ -8,8 +8,8 @@ export default defineConfig({
     open: true,
     proxy: {
       "/graphql": {
-        target: "http://localhost:3001",
-        secure: false,
+        target: "https://bloom-and-petal-floristry.onrender.com",
+        secure: true,
         changeOrigin: true,
       },
     },
